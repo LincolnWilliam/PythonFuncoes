@@ -32,3 +32,16 @@ Funcao08 - Escreva uma função que irá calcular a área de um retângulo,
 a mesma irá precisar dos valores da base e da altura como
 parâmetros para poder calcular a área.
 (área = base * altura / 2)
+
+Funcao09 - Crie um programa que irá sortear um número aleatório
+dentro de dois intervalos (início e fim) fornecidos pelo usuários,
+e retorne o número sorteado para o mesmo. Para isso, use a função.
+random.randrange(start, stop, step)
+é preciso importar - import randon
+
+
+
+
+
+
+
