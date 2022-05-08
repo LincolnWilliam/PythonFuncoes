@@ -39,6 +39,9 @@ e retorne o número sorteado para o mesmo. Para isso, use a função.
 random.randrange(start, stop, step)
 é preciso importar - import randon
 
+Funcao10 - Escreva uma função que recebe como entrada
+um número inteiro positivo n e retorne a soma de todos 
+os inteiros positivos menores ou iguais a n.
 
 
 
