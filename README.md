@@ -45,6 +45,8 @@ os inteiros positivos menores ou iguais a n.
 
 Funcao11 - Calculadora simples com as 4 operações.
 
+Funcao12 - Criar um sistema que retorne o século de acordo com o ano informado.
+
 
 
 
