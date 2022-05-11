@@ -1,3 +1,4 @@
+# Calculadora simples com as 4 operações.
 def calc ():
 
         if tipo == '1':
@@ -19,9 +20,6 @@ def calc ():
             multiplicacao = a * b
             print(f'a multiplicação dos números informados é: {multiplicacao}')
 
-        # else:
-        #     tipo == 'x:'
-        #     print('você está saindo da calculadora.')
 
 a = int(input('informe o primeiro número: '))
 b = int(input('informe o segundo número: '))
