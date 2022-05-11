@@ -43,7 +43,7 @@ Funcao10 - Escreva uma função que recebe como entrada
 um número inteiro positivo n e retorne a soma de todos 
 os inteiros positivos menores ou iguais a n.
 
-
+Funcao11 - Soma dos n primeiros inteiros positivos
 
 
 
