@@ -53,10 +53,13 @@ Funcao12 - Função radar de velocidade
 
   A - Se a velocidade do veiculo estiver 20% acima do limite de velocidade
     - Imprimir uma multa de 189,00
+    
   B - Se a velocidade estiver 50% acima do limite de velocidade
     - Aplicar multa de 400,00
+    
   C - Se a velocidade estiver 80% acima do limite
     - Aplicar multa de 989,00
+    
   D - Se estiver abaixo do limite.
     - exibir uma mensagem informando a placa e que o veículo está ok
 
