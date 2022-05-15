@@ -48,7 +48,9 @@ Funcao11 - Calculadora simples com as 4 operações.
 Funcao12 - Criar um sistema que retorne o século de acordo com o ano informado.
 
 Funcao12 - Função radar de velocidade
+
 - Parâmetros (velocidade do veiculo, limite de velocidade, placa)
+
   A - Se a velocidade do veiculo estiver 20% acima do limite de velocidade
     - Imprimir uma multa de 189,00
   B - Se a velocidade estiver 50% acima do limite de velocidade
