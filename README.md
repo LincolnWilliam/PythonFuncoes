@@ -48,15 +48,39 @@ Funcao11 - Calculadora simples com as 4 operações.
 Funcao12 - Criar um sistema que retorne o século de acordo com o ano informado.
 
 Funcao12 - Função radar de velocidade
+
 - Parâmetros (velocidade do veiculo, limite de velocidade, placa)
+
   A - Se a velocidade do veiculo estiver 20% acima do limite de velocidade
     - Imprimir uma multa de 189,00
+    
   B - Se a velocidade estiver 50% acima do limite de velocidade
     - Aplicar multa de 400,00
+    
   C - Se a velocidade estiver 80% acima do limite
     - Aplicar multa de 989,00
+    
   D - Se estiver abaixo do limite.
     - exibir uma mensagem informando a placa e que o veículo está ok
+
+Funcao14 - Atividade - Controle Remoto , Mudar  de canal, aumentar e diminuir volume
+
+Canais = (SBT, Globo, Record)
+Valores = (1, 2, 3)
+
+Volume = 0 à 20
+Funções
+
+Função mudar o canal : 
+1. Mudar de canal, muda para o canal acima, se estiver no ultimo canal volta para o primeiro
+
+Funções aumentar e diminuir o volume
+1. Aumentar o volume, incrementa em um o volume da TV, se estiver no volume máximo não pode permitir incrementar mais
+
+2. Diminuir o volume, decrementa em um o volume da TV, se estiver no volume mínimo não poderá permitir diminuir mais. 
+
+3. Criar um menu para solicitar o que o usuário deseja fazer 
+Ex: 1 - Mudar canal, 2 - Aumentar volume 3 - Diminuir Volume 4 - Sair 
 
 
 
